@@ -78,3 +78,7 @@ Rest API's available in the service:
         "toAcc": "3",
         "amount": "200"
       }
+      
+      
+ Additional details for the project are provided in wiki:
+ https://github.com/skosgi242/payments.wiki.git
